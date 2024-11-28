@@ -1,4 +1,4 @@
-Este projeto tem como objetivo criar um emulador do Game Boy Advance (GBA) utilizando um Raspberry Pi. O objetivo é oferecer uma experiência de jogo portátil e personalizável.
+Este projeto tem como objetivo criar um emulador do Game Boy Advance (GBA) utilizando um Raspberry Pi. O objetivo é oferecer uma experiência de jogo portátil, personalizável e passar de período no IFRJ
 
 
 ### **Funcionalidades:**
@@ -13,3 +13,7 @@ Este projeto tem como objetivo criar um emulador do Game Boy Advance (GBA) utili
 * **Tela 800x480**
 * **Cartão de memória - SD**
 * **Bateria**
+* **Case com saída de dissipação de calor, entrada dos botões e tela**
+* **Carregador**
+* **Sistema Operacional**
+* **Entrada pra cartão de memória**
