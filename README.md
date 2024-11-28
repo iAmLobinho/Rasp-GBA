@@ -3,7 +3,7 @@ Este projeto tem como objetivo criar um emulador do Game Boy Advance (GBA) utili
 
 ### **Funcionalidades:**
 
-* **Emulador GBA:** Rodar ROMs e Hacks Roms de jogos GBA.
+* **Emulador GBA:** Rodar ROMs e Hacks Roms de jogos GBA
 * **Personalização:** Configurar o sistema, personalizar a aparência do OS e controles
 * **Portátil:** Projetado para ser portátilz leve e passar de período🤓☝️
 
